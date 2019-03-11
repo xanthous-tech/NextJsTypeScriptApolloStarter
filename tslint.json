@@ -1,0 +1,14 @@
+{
+  "extends": [
+    "tslint:latest",
+    "tslint-react",
+    "tslint-config-airbnb",
+    "tslint-config-prettier"
+  ],
+  "rules": {
+    "file-name-casing": false,
+    "import-name": false,
+    "object-literal-sort-keys": false,
+    "variable-name": false
+  }
+}
